@@ -13,7 +13,7 @@ This is an app that takes a command line command and displays the result.
 
 2. Commands you can run:
 
-   * `concert-this (artis/band)`
+   * `concert-this (artist/band)`
         * `Name of Venue`
         * `Venue Location`
         * `Date of Event`
