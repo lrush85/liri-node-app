@@ -1,0 +1,441 @@
+Name: Manchester Arena
+
+Location: Manchester, United Kingdom
+
+Date: 03-10-2019Name: Manchester Arena
+
+Location: Manchester, United Kingdom
+
+Date: 03-11-2019Name: ACCORHOTELS ARENA
+
+Location: Paris, France
+
+Date: 03-13-2019Name: 3Arena
+
+Location: Dublin, Ireland
+
+Date: 03-19-2019Name: 3Arena
+
+Location: Dublin, Ireland
+
+Date: 03-21-2019Name: 3Arena
+
+Location: Dublin, Ireland
+
+Date: 03-22-2019Name: Resorts World Arena
+
+Location: Birmingham, United Kingdom
+
+Date: 03-26-2019Name: Resorts World Arena
+
+Location: Birmingham, United Kingdom
+
+Date: 03-27-2019Name: Resorts World Arena
+
+Location: Birmingham, United Kingdom
+
+Date: 03-28-2019Name: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 04-01-2019Name: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 04-02-2019Name: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 04-04-2019Name: The O2
+
+Location: London, United Kingdom
+
+Date: 04-05-2019Name: The O2
+
+Location: London, United Kingdom
+
+Date: 04-08-2019Name: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 04-09-2019Name: The O2 Arena
+
+Location: London, United Kingdom
+
+Date: 04-11-2019Name: SPORTPALEIS
+
+Location: Merksem, Belgium
+
+Date: 04-19-2019Name: Ziggo Dome
+
+Location: Amsterdam, Netherlands
+
+Date: 04-23-2019Name: Ziggo Dome
+
+Location: Amsterdam, Netherlands
+
+Date: 04-25-2019Name: Ziggo Dome
+
+Location: Amsterdam, Netherlands
+
+Date: 04-26-2019Name: Cidade do Rock
+
+Location: Rio De Janeiro, Brazil
+
+Date: 09-27-2019Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-10-2019Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-11-2019Name: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03-13-2019Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-19-2019Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-21-2019Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-22-2019Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-26-2019Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-27-2019Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-28-2019Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-01-2019Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-02-2019Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-04-2019Name: The O2
+Location: London, United Kingdom
+Date: 04-05-2019Name: The O2
+Location: London, United Kingdom
+Date: 04-08-2019Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-09-2019Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-11-2019Name: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04-19-2019Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-23-2019Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-25-2019Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-26-2019Name: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09-27-2019Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-10-2019
+------------------------------------------------------------
+
+Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-11-2019
+------------------------------------------------------------
+
+Name: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03-13-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-19-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-21-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-22-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-26-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-27-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-28-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-01-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-02-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-04-2019
+------------------------------------------------------------
+
+Name: The O2
+Location: London, United Kingdom
+Date: 04-05-2019
+------------------------------------------------------------
+
+Name: The O2
+Location: London, United Kingdom
+Date: 04-08-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-09-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-11-2019
+------------------------------------------------------------
+
+Name: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04-19-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-23-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-25-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-26-2019
+------------------------------------------------------------
+
+Name: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09-27-2019
+------------------------------------------------------------
+
+Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-10-2019
+------------------------------------------------------------
+
+Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-11-2019
+------------------------------------------------------------
+
+Name: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03-13-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-19-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-21-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-22-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-26-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-27-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-28-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-01-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-02-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-04-2019
+------------------------------------------------------------
+
+Name: The O2
+Location: London, United Kingdom
+Date: 04-05-2019
+------------------------------------------------------------
+
+Name: The O2
+Location: London, United Kingdom
+Date: 04-08-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-09-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-11-2019
+------------------------------------------------------------
+
+Name: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04-19-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-23-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-25-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-26-2019
+------------------------------------------------------------
+
+Name: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09-27-2019
+------------------------------------------------------------
+
+Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-10-2019
+------------------------------------------------------------
+
+Name: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 03-11-2019
+------------------------------------------------------------
+
+Name: ACCORHOTELS ARENA
+Location: Paris, France
+Date: 03-13-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-19-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-21-2019
+------------------------------------------------------------
+
+Name: 3Arena
+Location: Dublin, Ireland
+Date: 03-22-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-26-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-27-2019
+------------------------------------------------------------
+
+Name: Resorts World Arena
+Location: Birmingham, United Kingdom
+Date: 03-28-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-01-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-02-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-04-2019
+------------------------------------------------------------
+
+Name: The O2
+Location: London, United Kingdom
+Date: 04-05-2019
+------------------------------------------------------------
+
+Name: The O2
+Location: London, United Kingdom
+Date: 04-08-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-09-2019
+------------------------------------------------------------
+
+Name: The O2 Arena
+Location: London, United Kingdom
+Date: 04-11-2019
+------------------------------------------------------------
+
+Name: SPORTPALEIS
+Location: Merksem, Belgium
+Date: 04-19-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-23-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-25-2019
+------------------------------------------------------------
+
+Name: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 04-26-2019
+------------------------------------------------------------
+
+Name: Cidade do Rock
+Location: Rio De Janeiro, Brazil
+Date: 09-27-2019
+------------------------------------------------------------
+
