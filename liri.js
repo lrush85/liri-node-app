@@ -1,49 +1,71 @@
+
+// Required Dependencies
 require("dotenv").config();
+var fs = require("fs");
 var Spotify = require("node-spotify-api");
 var keys = require("./keys");
-var axios = require("axios");
-var moment = require("moment");
+var spotify = new Spotify(keys.spotify);
 var Concerts = require("./concerts");
+var OmdbApi = require("./omdb");
+var SpotifyAPI = require("./spotify");
 
-// var spotify = new Spotify(keys.spotify);
+
+
+// Add new instance of a constructor
+
 var concerts = new Concerts();
-var command = process.argv[2];
-var searchSpotify = process.argv.splice(3).join(" ");
-
-var spotify = new Spotify({
-    id: '8a89caa560424a1d949b65639e985e6b',
-    secret: 'cf847ccef92949a4990b83180d6385aa'
-  });
-
-console.log(spotify);
+var omdbCall= new OmdbApi();
+var spotify = new SpotifyAPI();
+var command = process.argv[2] ;
 
 switch(command) {
     case "concert-this":
         concerts.concertsInTown();
         break;
     case "spotify-this-song":
-
-        console.log(searchSpotify);
-        
-        spotify
-        .search({ type: 'track', query: 'All the Small Things' })
-        .then(function(response) {
-            console.log(response.tracks.items.duration_me);
-        })
-        .catch(function(err) {
-            console.log(err);
-        });
-
-
-
-        console.log("Song on spotify");
+        spotify.spotifyQuery();
         break;
     case "movie-this":
-        //run something
-        console.log("Movie on OMDB");
+        omdbCall.omdbSearch();
         break;
     case "do-what-it-says":
-        //run something
-        console.log("Runs the random.txt file");
-        break;
+        fs.readFile("random.txt", "utf8", function (error,data) {
+            
+            if(error) {
+                return console.log(error);
+            }
+           
+            var Spotify = require("node-spotify-api");
+            var keys = require("./keys");
+            var spotify = new Spotify(keys.spotify);
+            splitData = data.split(",");
+            command = splitData[0];
+            spotify
+            .search({ 
+                type: 'track', 
+                query: splitData[1]
+            })
+            .then(function(response) {
+            console.log("Song on spotify");
+            var jsonData = response.tracks;
+            var jsonDataLoop = jsonData.items[0];
+            var artists = jsonDataLoop.artists[0].name;
+            var songName = jsonDataLoop.name;
+            var previewURL = jsonDataLoop.preview_url;
+            var album = jsonDataLoop.album.name;
+
+            console.log(`
+            Artist: ${artists}
+            Song: ${songName}
+            Album: ${album}
+            Preview URL: ${previewURL}
+            `);
+                
+            })
+            .catch(function(err) {
+                console.log(err);
+            });
+            });
+            console.log("Runs the random.txt file");
+            break;
 }
